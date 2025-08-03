@@ -37,7 +37,6 @@ This repo serves as:
 ## 📖 Credits & Inspiration
 
 Much of my learning is based on tutorials and guidance from  
-
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30"/>](https://www.youtube.com/c/TraversyMedia) **[Traversy Media](https://www.youtube.com/c/TraversyMedia)** –  
 a fantastic channel for web development fundamentals and project-based learning.  
 
