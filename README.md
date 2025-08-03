@@ -38,10 +38,14 @@ This repo serves as:
 ## 📖 Credits & Inspiration
 
 Much of my learning is based on tutorials and guidance from  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="25"/>](https://www.youtube.com/c/TraversyMedia) **[Traversy Media](https://www.youtube.com/c/TraversyMedia)** –  
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="120"/>](https://www.youtube.com/c/TraversyMedia)  
+
+**[Traversy Media](https://www.youtube.com/c/TraversyMedia)** –  Brad Traversy
 a fantastic channel for web development fundamentals and project-based learning.  
 
 > Huge thanks to **Brad Traversy** for creating such high-quality content
+
 
 ---
 
